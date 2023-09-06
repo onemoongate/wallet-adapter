@@ -2,6 +2,7 @@
     "private": true,
     "name": "@solana/wallet-adapter",
     "author": "Solana Maintainers <maintainers@solana.foundation>",
+    "version": "1.0.0",
     "repository": "https://github.com/solana-labs/wallet-adapter",
     "license": "Apache-2.0",
     "engines": {
