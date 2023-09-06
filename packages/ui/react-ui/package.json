@@ -1,6 +1,11 @@
 {
+<<<<<<< Updated upstream
     "name": "@solana/wallet-adapter-react-ui",
     "version": "0.9.34",
+=======
+    "name": "@moongate/wallet-adapter-react-ui",
+    "version": "0.9.33",
+>>>>>>> Stashed changes
     "author": "Solana Maintainers <maintainers@solana.foundation>",
     "repository": "https://github.com/solana-labs/wallet-adapter",
     "license": "Apache-2.0",
