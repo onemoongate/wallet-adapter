@@ -1,6 +1,6 @@
 {
-    "private": true,
-    "name": "@solana/wallet-adapter",
+    "private": false,
+    "name": "@moongate/wallet-adapter",
     "author": "Solana Maintainers <maintainers@solana.foundation>",
     "version": "1.0.0",
     "repository": "https://github.com/solana-labs/wallet-adapter",
